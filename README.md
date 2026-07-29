@@ -76,6 +76,3 @@ ELSE
 
 AADARSH GAUTAM
 
-LinkedIn: https://linkedin.com/in/yourprofile
-
-GitHub: https://github.com/yourusername
